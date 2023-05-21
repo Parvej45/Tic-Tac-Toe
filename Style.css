@@ -14,9 +14,9 @@
     place-items: center;
 }
 .owner{
-    color: aqua;
+    color: rgba(13, 45, 228, 0.68);
     position: absolute;
-    top: 1rem;
+    top: 0rem;
     left: 50%;
     font-size: x-large;
     transform: transLateX(-50%);
@@ -29,7 +29,7 @@
 .game-info{
     color: white;
     position: absolute;
-    top: 6rem;
+    top: 6.5rem;
     left: 50%;
     font-size: x-large;
     transform: transLateX(-50%);
