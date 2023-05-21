@@ -13,7 +13,7 @@
     display:grid;
     place-items: center;
 }
-.owner{
+/* .owner{
     color: rgba(13, 45, 228, 0.68);
     position: absolute;
     top: 0rem;
@@ -25,7 +25,7 @@
     border: 1px solid rgba(255, 255, 255, 0.25);
     padding: 0.5rem 3rem;
 
-}
+} */
 .game-info{
     color: white;
     position: absolute;
