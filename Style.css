@@ -29,7 +29,7 @@
 .game-info{
     color: white;
     position: absolute;
-    top: 6.5rem;
+    top: 3rem;
     left: 50%;
     font-size: x-large;
     transform: transLateX(-50%);
